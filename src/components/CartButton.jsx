@@ -1,7 +1,10 @@
+import React from 'react'
+
 
 // keep the add to cart component here
 const CartButton = () => {
     //manage state of the count 
+  // const [counter,setCounter]
   return <>
   {/* add to cart button */}
   {/* count with - and  + button */}

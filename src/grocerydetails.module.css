@@ -1,0 +1,15 @@
+.Container{
+    width: 100%;
+    height:auto;
+    margin: auto;
+    background-color:white;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    width: 90%;
+    margin: 5px auto;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 3px;
+}
